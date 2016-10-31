@@ -1,5 +1,4 @@
 import {Component, Input} from '@angular/core';
-import {DragulaService} from "ng2-dragula/components/dragula.provider";
 import {TodoItem} from "../todo-item";
 
 @Component({

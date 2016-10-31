@@ -18,7 +18,10 @@
       "prefix": "app",
       "mobile": false,
       "styles": [
-        "styles.css"
+        "../node_modules/bulma/bulma.sass",
+        "../node_modules/dragula/dist/dragula.min.css",
+        "../node_modules/simple-line-icons/scss/simple-line-icons.scss",
+        "styles.scss"
       ],
       "scripts": [],
       "environments": {

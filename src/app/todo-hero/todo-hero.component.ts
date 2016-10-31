@@ -33,10 +33,5 @@ import { Component } from '@angular/core';
 })
 export class TodoHeroComponent {
 
-  title: string;
-
-  constructor() {
-    this.title = 'Angular 2-do!'
-  }
-
+  title: string = 'Angular 2-do!';
 }

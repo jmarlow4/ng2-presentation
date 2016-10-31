@@ -1,4 +1,3 @@
-/// <reference path="../../node_modules/ng2-dragula/ng2-dragula.d.ts" />
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import {FormsModule, ReactiveFormsModule} from '@angular/forms';

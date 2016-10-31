@@ -24,6 +24,7 @@ import {TodoService} from "../todo.service";
   `,
   styles: [`
     .todo-item {
+      background-color: white;
       margin: 5px 0;
       border: 1px solid grey;
       border-radius: 3px;
